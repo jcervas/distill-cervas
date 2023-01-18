@@ -1,0 +1,14 @@
+name: "distill-cervas"
+title: "Jonathan Cervas"
+description: |
+  Jonathan Cervas
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "CV"
+    	href: cv.pdf
+output: distill::distill_article
