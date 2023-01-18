@@ -1,0 +1,12 @@
+---
+title: "CV"
+description: |
+  CV of Jonathan Cervas
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+CV, updated January 18, 2023: [Jonathan Cervas](cv.pdf)
